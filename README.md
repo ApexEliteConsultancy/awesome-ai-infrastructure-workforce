@@ -1,108 +1,114 @@
 <div align="center">
 
-# ⚡ Awesome AI Infrastructure Workforce Kit
+# ⚡ AI Infrastructure Workforce Intelligence
 
-### The definitive open knowledge base for Data Centers, Energy Grid Modernization, High-Voltage Engineering & Security-Cleared Talent.
+### An open reference layer & knowledge hub for Data Centers, Clean Energy, High-Voltage Trades & Security-Cleared AI Talent.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Maintained by Apex Elite](https://img.shields.io/badge/Maintained%20by-Apex%20Elite-blue?style=flat-square)](https://www.apexelite.io)
+[![Apex Elite Blog](https://img.shields.io/badge/Read-Blog%20%26%20Insights-brightgreen?style=flat-square)](https://www.apexelite.io/blog)
+[![Open Positions](https://img.shields.io/badge/LinkedIn-Active%20Jobs-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/apexelite/jobs/)
 
-[Website](https://www.apexelite.io) • [Report Issue](https://github.com/ApexEliteConsultancy/awesome-ai-infrastructure-workforce/issues) • [Contribute](CONTRIBUTING.md)
+[Apex Website](https://www.apexelite.io) • [Resource Hub](https://www.apexelite.io/general-6) • [LinkedIn Page](https://www.linkedin.com/company/apexelite/)
 
 </div>
 
 ---
 
-> **The future of AI isn't only built with chips and data centers. It's built by people.**
+> **"The future of AI isn't only built with chips and data centers. It's built by people."**
 > 
-> This repository is a curated collection of labor market frameworks, engineering standards, salary benchmarks, and intelligence resources for the physical and cleared layers of AI infrastructure.
+> Apex Elite Consultancy maps the critical talent layer behind physical and defense AI infrastructure — connecting energy grid transformation, mission-critical facility engineering, and specialized recruitment.
 
 ---
 
 ## 📋 Table of Contents
 
-- [⚡ Power & Grid Infrastructure](#-power--grid-infrastructure)
-- [❄️ Commissioning & Cooling Talent](#️-commissioning--cooling-talent)
-- [🔒 Security-Cleared Facilities & Ops](#-security-cleared-facilities--ops)
-- [📊 Open Data & Market Intelligence](#-open-data--market-intelligence)
-- [🛠️ Hiring Frameworks & Checklists](#️-hiring-frameworks--checklists)
+- [⚡ Power, Nuclear & Clean Energy](#-power-nuclear--clean-energy)
+- [❄️ Data Centers & Physical Trades](#️-data-centers--physical-trades)
+- [🔒 Security Clearance & Government Contracting](#-security-clearance--government-contracting)
+- [🤖 AI Engineering, Cybersecurity & Agentic Teams](#-ai-engineering-cybersecurity--agentic-teams)
+- [🏢 Apex Elite Specialized Services](#-apex-elite-specialized-services)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [📄 License](#-license)
 
 ---
 
-## ⚡ Power & Grid Infrastructure
+## ⚡ Power, Nuclear & Clean Energy
 
-*Standards, trade certifications, and market data for high-voltage talent powering gigawatt campuses.*
+*Energy infrastructure is the primary bottleneck of the AI expansion. Mapping talent in high-voltage grid interconnection, nuclear modernization, and clean energy.*
 
-* [IEEE Power & Energy Society](https://ieee-pes.org) - Global engineering standards for power infrastructure.
-* [NECA Grid Labor Reports](https://necanet.org) - Apprenticeship pipelines and electrical trade shortages.
-* **High-Voltage Field Engineer Profile** - [View Benchmark](./frameworks/hv-engineer-profile.md) *(Apex Elite Framework)*
+### Key Industry Analysis
+* 📄 **[Big Tech Isn't Building AI Anymore — It's Building Power](https://medium.com/@admin_21147/big-tech-isnt-building-ai-anymore-it-s-building-power-4d64da703825)** — *How hyperscalers are securing utility-scale energy, substations, and power generation.*
+* 📄 **[Nuclear Energy Is Changing — And the Workforce Isn't Ready Yet](https://medium.com/@admin_21147/nuclear-energy-is-changing-and-the-workforce-isnt-ready-yet-6480ff165c2e)** — *Analyzing talent shortages across small modular reactors (SMRs) and nuclear engineering.*
 
----
-
-## ❄️ Commissioning & Cooling Talent
-
-*Frameworks for HVAC controls, BAS, and Mission-Critical commissioning (Cx).*
-
-* [Building Commissioning Association (BCxA)](https://bcxa.org) - Best practices and certification levels for Cx engineers.
-* [ASHRAE Data Center Resources](https://www.ashrae.org) - Liquid cooling and thermal management guidelines.
-* **Commissioning Engineer Hiring Checklist** - [Download Checklist](./checklists/commissioning-checklist.md)
+### Related Services & Standards
+* 🌐 **Apex Elite Service:** [Clean Energy Talent Acquisition](https://www.apexelite.io/services/clean-energy-talent-acquisition)
+* 🔗 [IEEE Power & Energy Society](https://ieee-pes.org) — Global power infrastructure engineering standards.
 
 ---
 
-## 🔒 Security-Cleared Facilities & Ops
+## ❄️ Data Centers & Physical Trades
 
-*Navigating clearance levels (Secret, TS/SCI) for critical defense and hyperscale infrastructure.*
+*Data center construction and commissioning rely heavily on electrical, cooling, and field engineering expertise.*
 
-* [DCSA Clearance Guidelines](https://www.dcsa.mil) - Official timelines and processing benchmarks for cleared staff.
-* **Cleared Facilities Compensation Matrix** - [View Salary Benchmarks](./data/cleared-facilities-comp.md)
+### Key Industry Analysis
+* 📄 **[The AI Data Center Boom's Surprising Bottleneck: Why the Future Needs Old-School Trades](https://medium.com/@admin_21147/the-ai-data-center-booms-surprising-bottleneck-why-the-future-needs-old-school-trades-a32e99c986d0)** — *Analyzing high-voltage electricians, MEP leads, and field techs in mission-critical builds.*
+* 📄 **[The Biggest Winners of the AI Revolution Might Not Be Programmers](https://medium.com/@admin_21147/the-biggest-winners-of-the-ai-revolution-might-not-be-programmers-bc38b8b0b671)** — *Why physical-layer infrastructure talent holds massive leverage in the AI era.*
 
----
-
-## 📊 Open Data & Market Intelligence
-
-*Aggregated placement metrics, time-to-fill data, and regional talent scarcity maps.*
-
-| Market Segment | Avg. Time-to-Fill | Talent Scarcity Level | Key Bottleneck |
-| :--- | :--- | :--- | :--- |
-| **Commissioning (Cx) Engineers** | 74 Days | 🔴 High | BAS/Controls Expertise |
-| **High-Voltage Field Techs** | 62 Days | 🔴 High | Substation Certification |
-| **Cleared Data Center Ops** | 90+ Days | 🟣 Critical | Active TS/SCI Polygraph |
-
-> *Data aggregated quarterly by [Apex Elite Consultancy](https://www.apexelite.io).*
+### Related Services & Standards
+* 🌐 **Apex Elite Service:** [Data Centers Talent Acquisition](https://www.apexelite.io/services/data-centers-talent-acquisition)
+* 🔗 [ASHRAE Data Center Resources](https://www.ashrae.org) — Liquid cooling and thermal management guidelines.
 
 ---
 
-## 🛠️ Hiring Frameworks & Checklists
+## 🔒 Security Clearance & Government Contracting
 
-*Practical templates derived from real-world mission-critical searches.*
+*Navigating cleared facilities, defense infrastructure, and national security talent requirements.*
 
-* 📄 [Data Center Site-Selection Talent Readiness Template](./templates/site-selection.md)
-* 📄 [30-60-90 Day Onboarding for Lead Commissioning Engineers](./templates/onboarding-cx.md)
+### Key Industry Analysis
+* 📄 **[The Security Clearance Playbook: What No One Tells You Until It's Too Late](https://medium.com/@admin_21147/the-security-clearance-playbook-what-no-one-tells-you-until-its-too-late-bfbcf883a774)** — *A comprehensive guide to clearance timelines, sponsorship, and vetting processes.*
+
+### Related Services & Resources
+* 🌐 **Apex Elite Service:** [Government & Cleared Talent Acquisition](https://www.apexelite.io/services/government-%26-cleared-talent)
+* 📄 **Government & Federal Contracting Readiness** — Specialized vetting for defense and hyperscale facilities.
+* 🔗 [DCSA Guidelines](https://www.dcsa.mil) — Official defense clearance standards and timelines.
 
 ---
 
-## 🤝 How to Contribute
+## 🤖 AI Engineering, Cybersecurity & Agentic Teams
 
-Contributions are what make the open-source community an amazing place to learn, inspire, and build!
+*Building software architecture, AI agent workforces, and critical infrastructure security.*
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingResource`)
-3. Commit your Changes (`git commit -m 'Add some AmazingResource'`)
-4. Push to the Branch (`git push origin feature/AmazingResource`)
-5. Open a Pull Request
+### Key Industry Analysis
+* 📄 **[Everyone Wants AI Agents — Almost Nobody Is Building the Teams They Need](https://medium.com/@admin_21147/everyone-wants-ai-agents-almost-nobody-is-building-the-teams-they-need-dcbffeca7617)** — *Structuring technical teams for AI deployment and workflow automation.*
+* 📄 **[Code Has Become Cheap — But the People Who Know How to Protect It Haven't](https://medium.com/@admin_21147/code-has-become-cheap-but-the-people-who-know-how-to-protect-it-havent-why-a4a28848c25a)** — *Cybersecurity and infrastructure protection in the AI generation era.*
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
+### Related Services
+* 🌐 **Apex Elite Service:** [AI Talent Acquisition](https://www.apexelite.io/services/ai-talent-acquisition)
+* 🌐 **Apex Elite Service:** [SaaS & CCaaS Talent Acquisition](https://www.apexelite.io/services/saas-%26-ccaas-talent-acquisition)
+
+---
+
+## 🏢 Apex Elite Specialized Services
+
+*Apex Elite Consultancy provides executive search, workforce intelligence, and specialized recruitment across key infrastructure domains:*
+
+* ⚡ **[Clean Energy Talent Acquisition](https://www.apexelite.io/services/clean-energy-talent-acquisition)**
+* 🏢 **[Data Centers Talent Acquisition](https://www.apexelite.io/services/data-centers-talent-acquisition)**
+* 🔒 **[Government & Cleared Talent](https://www.apexelite.io/services/government-%26-cleared-talent)**
+* 🧠 **[AI Talent Acquisition](https://www.apexelite.io/services/ai-talent-acquisition)**
+* 💻 **[SaaS & CCaaS Talent Acquisition](https://www.apexelite.io/services/saas-%26-ccaas-talent-acquisition)**
+* 📊 **[Apex Elite Resources & Research Hub](https://www.apexelite.io/general-6)**
+* 📰 **[Apex Elite Official Blog](https://www.apexelite.io/blog)**
+
+---
+
+## 🤝 How to Contribute & Connect
+
+* **Explore Careers:** Check out active infrastructure opportunities on [Apex Elite LinkedIn Jobs](https://www.linkedin.com/company/apexelite/jobs/).
+* **Contribute Knowledge:** Submit PRs or issues to expand technical standards and workforce resources.
+* **Contact Us:** Visit [apexelite.io](https://www.apexelite.io) to discuss strategic hiring or talent intelligence.
 
 ---
 
 ## 🛡️ Maintainer
 
-Maintained with ❤️ by **[Apex Elite Consultancy](https://www.apexelite.io)**.
-
-*Specialized Recruitment & Workforce Intelligence for AI Infrastructure, Data Centers, and Energy.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apex%20Elite-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)
+Maintained by **[Apex Elite Consultancy](https://www.apexelite.io)** — *Specialized Recruitment & Workforce Intelligence for AI Infrastructure, Data Centers, Energy, and Cleared Facilities.*
