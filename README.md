@@ -95,10 +95,10 @@
 
 ### Case Study Highlights: International Expansion
 * **62+ Successful Placements:** Accelerated technical and leadership recruitment across 6 countries.
-* **92% Retention Rate:** High-fidelity screening and onboarding embedded into client workflows[cite: 3].
-* **Scalable Delivery:** Dedicated recruitment pods eliminating operational bottlenecks[cite: 3].
+* **92% Retention Rate:** High-fidelity screening and onboarding embedded into client workflows.
+* **Scalable Delivery:** Dedicated recruitment pods eliminating operational bottlenecks.
 
-📄 **[Download Full Case Study (PDF)](./Apex_Elite_Case_Study.pdf)**  
+📄 **[Download Full Case Study (PDF)](./Apex%20Elite_Case%20Study_2026.pdf)**  
 🔗 **[View Case Study Carousel on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7491519635121520640/)**
 
 ## 🏢 Apex Elite Specialized Services
