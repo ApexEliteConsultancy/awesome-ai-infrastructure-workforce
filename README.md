@@ -7,10 +7,12 @@
 [![Maintained by Apex Elite](https://img.shields.io/badge/Maintained%20by-Apex%20Elite-blue?style=flat-square)](https://www.apexelite.io)
 [![Apex Elite Blog](https://img.shields.io/badge/Read-Blog%20%26%20Insights-brightgreen?style=flat-square)](https://www.apexelite.io/blog)
 [![Open Positions](https://img.shields.io/badge/LinkedIn-Active%20Jobs-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/apexelite/jobs/)
+[![Contact Apex Elite](https://img.shields.io/badge/Contact-Get%20in%20Touch-orange?style=flat-square)](https://www.apexelite.io)
 
-[Apex Website](https://www.apexelite.io) • [Resource Hub](https://www.apexelite.io/general-6) • [LinkedIn Page](https://www.linkedin.com/company/apexelite/)
+[Apex Website](https://www.apexelite.io) • [Resource Hub](https://www.apexelite.io/general-6) • [Contact Us](https://www.apexelite.io) • [LinkedIn Page](https://www.linkedin.com/company/apexelite/)
 
 </div>
+
 
 ---
 
