@@ -117,7 +117,7 @@
 
 ## 🤝 How to Contribute & Connect
 
-* **Explore Careers:** Check out active infrastructure opportunities on [Apex Elite LinkedIn Jobs](https://www.linkedin.com/company/apexelite/jobs/).
+* **Explore Careers:** Check out active infrastructure opportunities on [Apex Elite LinkedIn Jobs]([https://www.linkedin.com/company/apexelite/jobs/](https://www.linkedin.com/company/apexelite/jobs/?viewAsMember=true)).
 * **Contribute Knowledge:** Submit PRs or issues to expand technical standards and workforce resources.
 * **Contact Us:** Visit [apexelite.io](https://www.apexelite.io) to discuss strategic hiring or talent intelligence.
 
